@@ -15,7 +15,7 @@ public class FirstClass {
 				}
 			System.out.println("");
 			}
-		System.out.println("\n");
+		//System.out.println("\n");
 		}
 		
 		}
